@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Update Field Invocable Action</fullName>
+    <description>This allows you to pass in a Field Name, Object Name, and Value into an invocable action and it will update the corresponding field.</description>
+    <types>
+        <members>UpdateRecordFieldFromProcess</members>
+        <members>UpdateRecordFieldFromProcessTest</members>
+        <name>ApexClass</name>
+    </types>
+    <version>48.0</version>
+</Package>
